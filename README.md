@@ -1,0 +1,1 @@
+Lite selvstudium på kaos teori, dynamiske systemer og initialbetingelse sensitivitet. Implementerte ulike Runge kutta metoder for numerisk løsning av system av differensialligngner. Videre så plottet jeg løsningene som viste seg å ha noen interessante karaktertrekk.
